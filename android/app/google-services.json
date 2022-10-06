@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584447951331",
+    "project_id": "fashionable-87664",
+    "storage_bucket": "fashionable-87664.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584447951331:android:5897071aac2eff44e2a0d6",
+        "android_client_info": {
+          "package_name": "com.example.testapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584447951331-vhlnioc23vpih3rc8se7kjgvhf9q0sdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQw8y6_T9bHTQAFNewy-v2nOCvycsYf-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584447951331-vhlnioc23vpih3rc8se7kjgvhf9q0sdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
